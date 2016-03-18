@@ -1,0 +1,15 @@
+/* Styles go here */
+body {
+    background-color: black;
+    color: #39FF14;
+}
+
+h1 {
+    color: #39FF14;
+    text-align: center;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
