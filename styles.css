@@ -1,12 +1,17 @@
 /* Styles go here */
 body {
-    background-color: black;
-    color: #39FF14;
+    background-color: white;
+    color: black;
+	margin-top: 60px;
+	margin-bottom: 60px;
 }
 
-h1 {
+header {
     color: #39FF14;
     text-align: center;
+	background-color: gray;
+	color: black;
+	font-size: 30px;
 }
 
 p {
@@ -16,4 +21,9 @@ p {
 
 footer {
 	text-align: center;
+	background-color: gray;
+}
+
+menu {
+	text-align: left;
 }
