@@ -2,6 +2,7 @@
 body {
     background-color: white;
     color: black;
+   
 }
 
 h1 {
@@ -47,4 +48,12 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
+}
+
+.intro {
+    text-align: center;
+}
+
+.skills {
+    text-align: left;
 }
