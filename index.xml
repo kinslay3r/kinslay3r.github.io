@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kinslay3r&#39;s Blog</title>
+    <link>https://kinslay3r.github.io/</link>
+    <description>Recent content on Kinslay3r&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 22:22:20 -0500</lastBuildDate>
+    <atom:link href="https://kinslay3r.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world</title>
+      <link>https://kinslay3r.github.io/posts/helloworld/</link>
+      <pubDate>Wed, 12 Feb 2025 22:22:20 -0500</pubDate>
+      <guid>https://kinslay3r.github.io/posts/helloworld/</guid>
+      <description>&lt;p&gt;Hello world. I thought I would start blogging again so decided to give Hugo a try.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
